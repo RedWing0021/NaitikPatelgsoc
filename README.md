@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NaitikPatelgsoc
+- 👋 Hi, I’m @Joker
 - 👀 I’m interested in contributing to open source
 - 🌱 I’m currently learning web devlopment and andriod development
 - 💞️ I’m looking to collaborate on ...
